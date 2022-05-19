@@ -1,0 +1,7 @@
+Dia 14/05/22: Fizemos uma reunião para discutir qual estrutura de dados usaríamos para implementar a tabela de símbolos.
+    Chegamos a conclusão que seria usado uma lista duplamente encadeada de structs, onde os tokens seríam as variáveis do struct.
+
+Dia 18/05/22: Começamos a correção do código passado e a definir a gramática.
+
+Dia 19/05/22: Partimos para implementação da LDE e da formação da tabela.
+
